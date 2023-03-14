@@ -1,0 +1,73 @@
+Thank you for using this project! Here you can make and play other games, or use the Audio Player to listen to your own or pre-installed music.
+
+Before using this project, please read the below instructions.
+************************ WARNINGS****************************
+If you are to click see inside, please note that the project may lag or crash your computer due to the size of the project.
+READ BEFORE CLICKING THE FLAG: This project may cause epileptic seizures for some people. If you experience this, stop using the project immeadietly.
+If you are not connected to the internet, the project may not work properly.
+**************************NOTICES******************************
+Remember that the project may lag your computer if run amongst a set of other tabs and applications.
+Be sure to take breaks often for your health.
+Avoid changing any project code.
+The project allows you to add your own games and music to it.
+When you add your games and music, use the correct format and instructions specified.
+If your computer begins to overheat, stop the project.
+Do not present this project on meeting sites like Zoom or Google Meet, as it contains copyrighted information.
+Please do not sort through the code inside the project, or try to change it in any way other than instructed.
+***********************Adding a game***************************
+1. Remix the project.
+2. Add your game to the project. Make sure your game has "When flag clicked..." changed to "When I recieve 'load disc'" and "When Flag Clicked, forever, set 'Acceptable' to 1".
+3. Test the project to make sure the game works.
+4. Share the remix so everybody can play your game.
+Make sure you are using a working computer when playing these games.
+If you click the flag on this project, you will gain access to the menu, where you can listen to music and view your lists. To add you own music, go into the project, add the music to the button sprite, and click the button.
+If an error occurs, make sure your game is setup properly, and working.
+WARNING: Never add code while the project is running. Stop the project first, and wait for all code blocks to stop running.
+Restarting the game: Simply click the flag. Do not click the stop sign, or you might lose data.
+Accessing the menu: Please switch to the original project (this one) to access the menu. You cannot access the menu when a game is setup.
+*****************Making use of the keyboard******************
+When making a game, please make use of the arrow keys always, only 8 buttons of choice, and the Space key. If you find it neccessary to use WASD controls, please still add arrow key support, and reagrdless if you do or don't, add a notice on the project instructions stating it uses WASD controls.
+***************************List usage****************************
+The 2 lists that can be found in the project can be used primarily for saving game data, but if neccessary, can also be used for anything. You may alter these lists in any ways, however, do not rename them. To access and view these lists, see inside the project of choice, and export the list, then see inside this project and import the list. Click on the picture of the list to view them.
+************************Playing music***************************
+The project comes with a group of preset music, but if these are not good enough for you (and they probably won't be) you can add your own music. Click see inside, and go into the sprite of the big blue button that says "Play your music", and go into the sounds tab. Import all the music you want to listen to. Now, go to the commented script, and change the "play music" block to play your music (you may choose any order). Finally, exit back to the project page, and click that button. You do not need to remix the project to use this feature, however, your imported music will not save.
+************************Soundscope*****************************
+SEIZURE WARNING: There are flashing colors when using the Soundscope.
+Press the "S" key while a song is playing to access the Soundscope feature, which shows bouncy sound waves bouncing to the music. This feature is only available for the pre-set music.
+****************************Q&A**********************************
+If you have any questions, comment below!
+Q: I'm not hearing anything?
+A: You might need to unmute your computer, or remove your headphones unless you were planning to wear them.
+Q: Nothing appears?
+A: Oh yeah, there must be an issue. Comment below and I will try to solve it as soon as the sun comes up.
+Q: Everything flickers?
+A: I'm not sure. Sorry?
+Q: The project freezes or the game stops?
+A: Why are you asking here? The project only freezes when an error occurs. These errors only come up when a game is intact. If you're the one making the game, read the criteria above. If not, ask the creator of the game, not me.
+Q: There is no game?
+A: You gotta add one, silly. I only make the menus.
+Q: Nothing happens when I click on things or press keys?
+A: This is a computer problem, which means you need to pester Google, Microsoft, Apple etc.
+Q: The lists don't appear?
+A: The remix edited and removed the lists. You can do that, after all.
+Q: WHERE IS THE RUMBLE FEATURE?!!! AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!
+A: CALM DOWN! Am I magical or something? Can I insert a motor into your device? No! So obviously there's no rumble.
+Q: The project crashs.
+A: That is a Scratch error. Reload the page and try again.
+Q: OH NO! I just broke the project! Omg omg omg omg omg omg I'm so SORRYYYYYYYYYYYYY!!
+A: Don't worry! It's okay, just reload the page. The error just happens randomly, just an extra in there. Either that, or the game is broken, pester the developer.
+
+*********************Copyrights/Credits*************************
+All sprites and everything were by me, excluding refrences below.
+Playstation created by: Sony Computer Entertainment
+Ported to Scratch by: 348725854
+Playstation Logo: Some random image on Google (what do you think I keep track of these things?)
+Menu Sprites: Screenshots of applicable scratch objects
+Music: All music was in the Scratch editor, except "Blocks" by Yeeterboi4.
+
+The project was updated on March 13, 2023 to add the new features normally available in the second revision of the Playstation BIOS, as well as to add Soundscope.
+
+This project is subject to free use, and is recommended through the edition of adding music and games to the project via remix or the see inside button.
+
+©1995 Sony Computer Entertainment
+©2023 "348725854"
